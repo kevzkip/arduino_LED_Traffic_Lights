@@ -35,7 +35,8 @@ This project simulates a traffic light system using Arduino. Follow the steps be
 ## Contributing
 
 Contributions are welcome! Please feel free to open a pull request or an issue if you have any suggestions, improvements, or questions.
-##Author
+
+## Author
 Kevin K.
 
 ## License
